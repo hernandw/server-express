@@ -1,0 +1,16 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Williams Hernández",
+  "license": "MIT",
+  "description": "Servidor en Express",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
